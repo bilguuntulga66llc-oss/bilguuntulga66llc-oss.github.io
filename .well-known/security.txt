@@ -1,0 +1,4 @@
+Contact: mailto:t21builds@gmail.com
+Expires: 2027-11-01T00:00:00Z
+Preferred-Languages: mn, en
+Canonical: https://bilguuntulga66llc-oss.github.io/.well-known/security.txt
